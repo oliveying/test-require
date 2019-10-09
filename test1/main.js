@@ -1,6 +1,6 @@
 require.config({
     paths: {
-        jquery: 'jquery-1.12.4'
+        jquery: 'test1/jquery-1.12.4'
     }
 });
 require(['jquery'], function($) {
